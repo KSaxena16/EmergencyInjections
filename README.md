@@ -101,3 +101,86 @@ Amiodarone has been used both in the treatment of acute life-threatening arrhyth
 + loss of appetite, nausea, trouble seeing, confusion, breast enlargement and an irregular heartbeat
 
 ## Aminophylline Injection: ##
+
++ Acute symptoms of asthma
++ Bronchitis
++ Emphysema
+
+### Common side effect: ###
+
++ Theophylline toxicity
+
+## Theophylline Injection: ##
+
++ relaxing bronchial smooth muscle
++ increasing heart muscle contractility and efficiency (positive inotrope)
++ increasing heart rate (positive chronotropic)[4]
++ increasing blood pressure
++ increasing renal blood flow
++ anti-inflammatory effects
++ central nervous system stimulatory effect mainly on the medullary respiratory center.
++ chronic obstructive pulmonary disease (COPD)
++ asthma
++ infant apnea
++ Blocks the action of adenosine; an inhibitory neurotransmitter that induces sleep, contracts the smooth muscles and relaxes the cardiac muscle.
+Treatment of post-dural puncture headache
+
+### Common side effect: ###
+
++ Nausea/vomiting, stomach/abdominal pain, headache, trouble sleeping, diarrhea, irritability, restlessness, nervousness, shaking, or increased urination
+
+## Dexamethasone Injection: ##
+
++ Anti-inflammatory
++ Cancer
++ COVID‑19
++ Endocrine
++ Pregnancy
++ High-altitude illnesses
++ Nausea and vomiting
++ Sore throat
+
+### Common side effect: ###
++ upset stomach.
++ stomach irritation.
++ vomiting.
++ headache.
++ dizziness.
++ insomnia.
++ restlessness.
++ depression.
+
+## Hydrocortisone Injection: ##
+
++  Adrenocortical insufficiency
++  Adrenogenital syndrome 
++  High blood calcium
++  Thyroiditis 
++  Rheumatoid arthritis 
++  Dermatitis
++  Asthma 
++  COPD
+
+### Common side effect: ###
+
+Side effects may include mood changes, increased risk of infection, and edema (swelling). With long-term use common side effects include osteoporosis, upset stomach, physical weakness, easy bruising, and candidiasis (yeast infections)
+
+## Methylprednisolone Injection: ##
+
++ Asthma
++ Rheumatic diseases
++ Primary or secondary adrenocortical insufficiency
+
+### Common side effects: ###
++ headache
++ nausea and vomiting
++ weight gain
++ confusion, excitement, and restlessness
++ swelling of your ankles, feet, or hands
++ skin problems, such as acne, thin skin, and shiny skin
++ increased thirst
++ infection
++ high blood pressure
++ muscle weakness
++ depression
+
