@@ -1,4 +1,4 @@
-# Emergency Injections
+
 ## Adrenaline(Epinephrine) Injection:
 
 Adrenaline is a drug that leads to increased blood pressure, increased heart rate, increased air entry, increased blood glucose, stimulates cardiac activity and reduce allergic reactions by reducing inflammatory response caused by histamine. Adrenaline action is fast yet it has a short duration. Due to these properties, it is used for the treatment of allergic and anaphylactic reactions (e.g. drug reactions, insect stings, food allergies).
